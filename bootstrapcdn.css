@@ -1,0 +1,21 @@
+@media screen and (width >= 992px) {
+    .w-custom {
+        width: 50%;
+    }
+}
+@media screen and (width <= 992px) {
+    .w-custom {
+        width: 100%;
+    }
+    ul {
+        list-style: none;
+    }
+}
+
+.github-img {
+    width: 10vw;
+    max-width: 40%;
+    display: block;
+    margin-left: auto;
+    
+}
